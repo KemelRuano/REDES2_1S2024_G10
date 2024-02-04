@@ -3,7 +3,7 @@
 ### Escuela de Ciencias y Sistemas
 ### Laboratorio de redes de computadoras 1 
 
-grupo 10  - Integrantes  :
+# grupo 10  - Integrantes  :
 
 | Nombre           | Carnet       |
 |:----------------:|:------------:|
