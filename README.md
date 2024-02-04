@@ -3,8 +3,7 @@
 ### Escuela de Ciencias y Sistemas
 ### Laboratorio de redes de computadoras 1 
 
-### grupo 10  - Integrantes  :
-
+## Grupo 10
 | Nombre           | Carnet       |
 |:----------------:|:------------:|
 |Juan Josue Zuleta Beb | 202006353 |
