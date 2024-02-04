@@ -1,7 +1,7 @@
-## Universidad de San Carlos de Guatemala
-## Facultad de Ingenieria
-## Escuela de Ciencias y Sistemas
-## Laboratorio de redes de computadoras 1 
+### Universidad de San Carlos de Guatemala
+### Facultad de Ingenieria
+### Escuela de Ciencias y Sistemas
+### Laboratorio de redes de computadoras 1 
 
 ### grupo 10  - Integrantes  :
 
