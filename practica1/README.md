@@ -108,9 +108,9 @@ enable
 configure terminal
 interface range f0/1-2
 switchport mode access
-switchport access vlan 21
+switchport access vlan 11
 
-!Solo para SW6 y SW11 (Basicos):
+!Port-security:
 interface range FastEthernet0/1-2
 switchport port-security maximum 1
 switchport port-security violation shutdown
