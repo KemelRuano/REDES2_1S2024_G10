@@ -206,7 +206,7 @@ switchport mode access
 ```
 ! Trunk
 interface range FastEthernet0/1-5
-trunk encapsulation dot1q
+switchport trunk encapsulation dot1q
 switchport mode trunk
 ```
 
@@ -214,7 +214,7 @@ switchport mode trunk
 ```
 ! Trunk
 interface range FastEthernet0/1-2
-trunk encapsulation dot1q
+switchport trunk encapsulation dot1q
 switchport mode trunk
 ```
 
@@ -222,7 +222,7 @@ switchport mode trunk
 ```
 ! Trunk
 interface range FastEthernet0/1-2
-trunk encapsulation dot1q
+switchport trunk encapsulation dot1q
 switchport mode trunk
 ```
 
@@ -230,7 +230,7 @@ switchport mode trunk
 ```
 ! Trunk
 interface range FastEthernet0/1-4
-trunk encapsulation dot1q
+switchport trunk encapsulation dot1q
 switchport mode trunk
 ```
 
@@ -238,7 +238,7 @@ switchport mode trunk
 ```
 ! Trunk
 interface range FastEthernet0/1-5
-trunk encapsulation dot1q
+switchport trunk encapsulation dot1q
 switchport mode trunk
 ```
 
@@ -246,7 +246,7 @@ switchport mode trunk
 ```
 ! Trunk
 interface range FastEthernet0/1-2
-trunk encapsulation dot1q
+switchport trunk encapsulation dot1q
 switchport mode trunk
 ```
 
@@ -254,7 +254,7 @@ switchport mode trunk
 ```
 ! Trunk
 interface range FastEthernet0/1-2
-trunk encapsulation dot1q
+switchport trunk encapsulation dot1q
 switchport mode trunk
 ```
 
@@ -262,7 +262,7 @@ switchport mode trunk
 ```
 ! Trunk
 interface range FastEthernet0/1-4
-trunk encapsulation dot1q
+switchport trunk encapsulation dot1q
 switchport mode trunk
 ```
 
